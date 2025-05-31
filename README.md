@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Carlos Henrique, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas. Atualmente, sou militar do exército brasileiro, mas estou louco para me aventurar na área da programação e em busca de uma oportunidade para crescer profissionalmente.</h2>
+<h2 align="left">Hi 👋! Meu nome é Carlos Henrique, estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas. Atualmente, sou militar do exército brasileiro, mas estou louco para me aventurar na área da programação e em busca de uma oportunidade para crescer profissionalmente.</h2>
 
 ###
 
